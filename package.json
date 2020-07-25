@@ -1,0 +1,14 @@
+{
+  "name": "@amanda/arganalyser",
+  "version": "1.0.0",
+  "description": "A command documentation based argument parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PapiOphidian",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.x"
+  }
+}
